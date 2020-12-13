@@ -1,0 +1,26 @@
+{
+  "name": "mosaico20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FFBorghi/mosaico20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FFBorghi/mosaico20/issues"
+  },
+  "homepage": "https://github.com/FFBorghi/mosaico20#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
