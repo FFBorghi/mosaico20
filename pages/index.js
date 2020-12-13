@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import stylesR from '../styles/reset.css'
 import styles from '../styles/style.css'
 
 export default function Home() {
