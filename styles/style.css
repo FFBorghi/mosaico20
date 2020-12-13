@@ -41,7 +41,7 @@ hr {
 
 /* Navigation menu */
 header {
-	background-image: url(fundo.png);
+	background-image: url("/fundo.png");
 	background-size: cover;
 	background-position: top center;
 	height: 100%;
