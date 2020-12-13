@@ -1,5 +1,5 @@
-import styles from '../styles/style.css'
-import stylesR from '../styles/reset.css'
+import styles from '/style.css'
+import stylesR from '/reset.css'
 
 // This default export is required in a new `pages/_app.js` file.
 export default function MyApp({ Component, pageProps }) {
