@@ -32,7 +32,7 @@ export default function Home() {
 				</div>
 			</nav>
 			<div className={styles.banner-text}>
-				<h1>MOSAICO IF<br>2020</h1>
+				<h1>MOSAICO IF<br />2020</h1>
 			</div>
 		</header>
 	  </html>
